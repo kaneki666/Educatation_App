@@ -1,0 +1,18 @@
+export {default} from './Service';
+export {default as Boards} from './Boards/Boards';
+export {default as EducationService} from './EducationService';
+export {default as Montronaloy} from './Montronaloy/Montronaloy';
+export {default as ELearning} from './ELearning/ELearning';
+export {default as ElearningDetails} from './ELearning/ElearningDetails';
+export {default as HealthService} from './HealthService/HealthService';
+export {default as HealthServiceDetails} from './HealthService/HealthServiceDetails';
+export {default as EducationECommerce} from './EducationECommerce/EducationECommerece';
+export {default as EducationECommerceDetails} from './EducationECommerce/EducationECommerceDetails';
+export {default as EducationLoan} from './EducationLoan/EducationLoan';
+export {default as EducationLoanDetails} from './EducationLoan/EducationLoanDetails';
+export {default as ESheba} from './Esheba/Esheba';
+export {default as EShebaDetails} from './Esheba/EShebaDetails';
+export {default as TuitonTuitor} from './TuitonTuitor/TuitonTuitor';
+export {default as TuitonTuitorDetails} from './TuitonTuitor/TuitonTuitorDetails';
+export {default as Training} from './Training/Training';
+export {default as TrainingDetails} from './Training/TrainingDetails';
